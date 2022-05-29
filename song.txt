@@ -3,6 +3,10 @@ wall of shields
 wolfgirl
 yes
 bubub
+<<<<<<< HEAD
 battle??
 
 F
+=======
+battle??
+>>>>>>> 42d13db5abdd7776f3efc0756096107bd8caf2a9
